@@ -1,1 +1,24 @@
+YT TITLE:
+am facut un robot cu care sa joc sah ( ca nah, carantina )
+
+SCOP:
+Sa joci sah cu cineva remote 
+face to face cu tabla de sah pe masa
+
+BRAINSTORM ( requirements )
+- arduino board
+- 3x sg90 servos
+- 3d print mana de robot
+- suruburi, jumper wires
+- 3x potentiometre
+- 1x playstation controller board
+
+MVP
+- 3d print mana de robot
+- 3x servos
+- 3x potentiometre pt a testa si calibra toate mutarile
+- 1x tabla sah si piese de sah de la pepco
+
+ROBOHAND PROTOTIP
 https://www.thingiverse.com/thing:1015238
+
